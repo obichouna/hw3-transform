@@ -3,8 +3,12 @@ import math
 def make_translate( x, y, z ):
     pass
 
-def make_scale( x, y, z ):
-    pass
+def make_scale(x, y, z):
+    scale = new_matrix
+    ident(scale)
+    scale[0][0] = x
+    scale[1][1] = y
+    scale[2][2] = z
 
 def make_rotX( theta ):    
     pass
