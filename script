@@ -1,31 +1,23 @@
 line
+50 100 50 100 0 0
+line
+50 100 50 0 0 100
+line
+50 100 50 100 0 100
+line
 0 0 0 100 0 0
-line
-100 0 0 100 100 0
-line
-100 100 0 0 100 0
-line
-0 100 0 0 0 0
-line
-0 0 100 100 0 100
-line
-100 0 100 100 100 100
-line
-100 100 100 0 100 100
-line
-0 100 100 0 0 100
 line
 0 0 0 0 0 100
 line
-0 100 0 0 100 100
+0 0 100 100 0 100
 line
-100 100 0 100 100 100
+100 0 100 100 0 0
 line
-100 0 0 100 0 100
+50 100 50 0 0 0
 display
 ident
 scale
-1.5 1.5 1.5
+2 2 2
 apply
 display
 ident
@@ -35,11 +27,11 @@ apply
 display
 ident
 rotate
-z 20
+z 10
 rotate
-x 20
+x 10
 rotate
-y -20
+y -10
 apply
 display
 ident
